@@ -1,0 +1,120 @@
+{"A": "P27882", "B": "P36046", "error": "HTTPError('400 Client Error: Bad Request for url: https://string-db.org/api/json/get_string_ids')"}
+{"A": "P11632", "B": "Q02821", "error": "HTTPError('400 Client Error: Bad Request for url: https://string-db.org/api/json/get_string_ids')"}
+{"A": "P11655", "B": "P48415", "error": "HTTPError('400 Client Error: Bad Request for url: https://string-db.org/api/json/get_string_ids')"}
+{"A": "Q9YP87", "B": "P50591", "error": "KeyError('organism')"}
+{"A": "G0TQZ9", "B": "Q9U6W1", "error": "KeyError('organism')"}
+{"A": "P01186", "B": "P30560", "error": "HTTPError('408 Client Error: Request Timeout for url: https://www.ebi.ac.uk/interpro/api/protein/reviewed/entry/pfam/PF00001/taxonomy/uniprot/10116/?page_size=200')"}
+{"A": "O89100", "B": "Q9Z1S8", "error": "HTTPError('408 Client Error: Request Timeout for url: https://www.ebi.ac.uk/interpro/api/protein/reviewed/entry/pfam/PF00169/taxonomy/uniprot/10090/?page_size=200')"}
+{"A": "P04233", "B": "P46531", "error": "HTTPError('408 Client Error: Request Timeout for url: https://www.ebi.ac.uk/interpro/api/protein/reviewed/entry/pfam/PF00008/taxonomy/uniprot/9606/?page_size=200')"}
+{"A": "P10999", "B": "Q91783", "error": "HTTPError('404 Client Error: Not Found for url: https://string-db.org/api/json/get_string_ids')"}
+{"A": "Q5T3J3", "B": "Q8NI70", "error": "KeyError('organism')"}
+{"A": "P15499", "B": "Q9JJZ9", "error": "HTTPError('408 Client Error: Request Timeout for url: https://www.ebi.ac.uk/interpro/api/protein/reviewed/entry/pfam/PF00520/taxonomy/uniprot/10090/?page_size=200')"}
+{"A": "Q9SYQ8", "B": "O80809", "error": "HTTPError('408 Client Error: Request Timeout for url: https://www.ebi.ac.uk/interpro/api/protein/reviewed/entry/pfam/PF07714/taxonomy/uniprot/3702/?page_size=200')"}
+{"A": "Q02040", "B": "P26368", "error": "HTTPError('404 Client Error: Not Found for url: https://www.ebi.ac.uk/interpro/api/entry/pfam/protein/uniprot/P26368/?page_size=200')"}
+{"A": "P51680", "B": "P14097", "error": "HTTPError('408 Client Error: Request Timeout for url: https://www.ebi.ac.uk/interpro/api/protein/reviewed/entry/pfam/PF00001/taxonomy/uniprot/10090/?page_size=200')"}
+{"A": "P38431", "B": "P32481", "error": "HTTPError('404 Client Error: Not Found for url: https://www.ebi.ac.uk/interpro/api/protein/reviewed/entry/pfam/PF01873/taxonomy/uniprot/559292/?page_size=200')"}
+{"A": "P52603", "B": "P08956", "error": "HTTPError('404 Client Error: Not Found for url: https://www.ebi.ac.uk/interpro/api/entry/pfam/protein/uniprot/P52603/?page_size=200')"}
+{"A": "P35872", "B": "Q5SJE9", "error": "HTTPError('400 Client Error: Bad Request for url: https://string-db.org/api/json/get_string_ids')"}
+{"A": "Q9EQW6", "B": "Q99MA9", "error": "HTTPError('408 Client Error: Request Timeout for url: https://www.ebi.ac.uk/interpro/api/protein/reviewed/entry/pfam/PF00010/taxonomy/uniprot/10090/?page_size=200')"}
+{"A": "P07249", "B": "P13574", "error": "HTTPError('400 Client Error: Bad Request for url: https://string-db.org/api/json/get_string_ids')"}
+{"A": "O24456", "B": "P49177", "error": "HTTPError('408 Client Error: Request Timeout for url: https://www.ebi.ac.uk/interpro/api/protein/reviewed/entry/pfam/PF00400/taxonomy/uniprot/3702/?page_size=200')"}
+{"A": "Q60972", "B": "Q01147", "error": "HTTPError('408 Client Error: Request Timeout for url: https://www.ebi.ac.uk/interpro/api/protein/reviewed/entry/pfam/PF00400/taxonomy/uniprot/10090/?page_size=200')"}
+{"A": "P51680", "B": "P30882", "error": "HTTPError('408 Client Error: Request Timeout for url: https://www.ebi.ac.uk/interpro/api/protein/reviewed/entry/pfam/PF00001/taxonomy/uniprot/10090/?page_size=200')"}
+{"A": "Q8NI70", "B": "Q9UKY1", "error": "KeyError('organism')"}
+{"A": "P55854", "B": "Q8NI70", "error": "KeyError('organism')"}
+{"A": "Q16891", "B": "Q8NI70", "error": "KeyError('organism')"}
+{"A": "Q9YP87", "B": "P41273", "error": "KeyError('organism')"}
+{"A": "Q9YP87", "B": "P32971", "error": "KeyError('organism')"}
+{"A": "P62988", "B": "Q15276", "error": "KeyError('organism')"}
+{"A": "P07196", "B": "Q8NI70", "error": "KeyError('organism')"}
+{"A": "P63329", "B": "P62161", "error": "KeyError('organism')"}
+{"A": "O54880", "B": "P60881", "error": "HTTPError('404 Client Error: Not Found for url: https://www.ebi.ac.uk/interpro/api/entry/pfam/protein/uniprot/O54880/?page_size=200')"}
+{"A": "P20338", "B": "Q6WKZ4", "error": "HTTPError('404 Client Error: Not Found for url: https://www.ebi.ac.uk/interpro/api/entry/pfam/protein/uniprot/Q6WKZ4/?page_size=200')"}
+{"A": "P49185", "B": "Q4G050", "error": "HTTPError('408 Client Error: Request Timeout for url: https://www.ebi.ac.uk/interpro/api/protein/reviewed/entry/pfam/PF00069/taxonomy/uniprot/10116/?page_size=200')"}
+{"A": "Q9YP87", "B": "Q06643", "error": "KeyError('organism')"}
+{"A": "P27882", "B": "P36046", "error": "HTTPError('400 Client Error: Bad Request for url: https://string-db.org/api/json/get_string_ids')"}
+{"A": "P11632", "B": "Q02821", "error": "HTTPError('400 Client Error: Bad Request for url: https://string-db.org/api/json/get_string_ids')"}
+{"A": "P11655", "B": "P48415", "error": "HTTPError('400 Client Error: Bad Request for url: https://string-db.org/api/json/get_string_ids')"}
+{"A": "Q9YP87", "B": "P50591", "error": "KeyError('organism')"}
+{"A": "G0TQZ9", "B": "Q9U6W1", "error": "KeyError('organism')"}
+{"A": "P01186", "B": "P30560", "error": "HTTPError('408 Client Error: Request Timeout for url: https://www.ebi.ac.uk/interpro/api/protein/reviewed/entry/pfam/PF00001/taxonomy/uniprot/10116/?page_size=200')"}
+{"A": "O89100", "B": "Q9Z1S8", "error": "HTTPError('408 Client Error: Request Timeout for url: https://www.ebi.ac.uk/interpro/api/protein/reviewed/entry/pfam/PF00018/taxonomy/uniprot/10090/?page_size=200')"}
+{"A": "P04233", "B": "P46531", "error": "HTTPError('408 Client Error: Request Timeout for url: https://www.ebi.ac.uk/interpro/api/protein/reviewed/entry/pfam/PF00008/taxonomy/uniprot/9606/?page_size=200')"}
+{"A": "P10999", "B": "Q91783", "error": "HTTPError('404 Client Error: Not Found for url: https://www.ebi.ac.uk/interpro/api/entry/pfam/protein/uniprot/P10999/?page_size=200')"}
+{"A": "Q5T3J3", "B": "Q8NI70", "error": "KeyError('organism')"}
+{"A": "P15499", "B": "Q9JJZ9", "error": "HTTPError('404 Client Error: Not Found for url: https://www.ebi.ac.uk/interpro/api/protein/reviewed/entry/pfam/PF00335/taxonomy/uniprot/10090/?page_size=200')"}
+{"A": "Q9SYQ8", "B": "O80809", "error": "HTTPError('404 Client Error: Not Found for url: https://www.ebi.ac.uk/interpro/api/entry/pfam/protein/uniprot/O80809/?page_size=200')"}
+{"A": "P51680", "B": "P14097", "error": "HTTPError('404 Client Error: Not Found for url: https://www.ebi.ac.uk/interpro/api/entry/pfam/protein/uniprot/P51680/?page_size=200')"}
+{"A": "P38431", "B": "P32481", "error": "HTTPError('400 Client Error: Bad Request for url: https://string-db.org/api/json/get_string_ids')"}
+{"A": "P35872", "B": "Q5SJE9", "error": "HTTPError('404 Client Error: Not Found for url: https://www.ebi.ac.uk/interpro/api/entry/pfam/protein/uniprot/P35872/?page_size=200')"}
+{"A": "Q9EQW6", "B": "Q99MA9", "error": "HTTPError('408 Client Error: Request Timeout for url: https://www.ebi.ac.uk/interpro/api/protein/reviewed/entry/pfam/PF00010/taxonomy/uniprot/10090/?page_size=200')"}
+{"A": "P07249", "B": "P13574", "error": "HTTPError('404 Client Error: Not Found for url: https://www.ebi.ac.uk/interpro/api/entry/pfam/protein/uniprot/P07249/?page_size=200')"}
+{"A": "O24456", "B": "P49177", "error": "HTTPError('404 Client Error: Not Found for url: https://www.ebi.ac.uk/interpro/api/entry/pfam/protein/uniprot/O24456/?page_size=200')"}
+{"A": "Q60972", "B": "Q01147", "error": "HTTPError('408 Client Error: Request Timeout for url: https://www.ebi.ac.uk/interpro/api/protein/reviewed/entry/pfam/PF00400/taxonomy/uniprot/10090/?page_size=200')"}
+{"A": "P51680", "B": "P30882", "error": "HTTPError('408 Client Error: Request Timeout for url: https://www.ebi.ac.uk/interpro/api/protein/reviewed/entry/pfam/PF00001/taxonomy/uniprot/10090/?page_size=200')"}
+{"A": "Q8NI70", "B": "Q9UKY1", "error": "KeyError('organism')"}
+{"A": "P55854", "B": "Q8NI70", "error": "KeyError('organism')"}
+{"A": "Q16891", "B": "Q8NI70", "error": "KeyError('organism')"}
+{"A": "Q9YP87", "B": "P41273", "error": "KeyError('organism')"}
+{"A": "Q9YP87", "B": "P32971", "error": "KeyError('organism')"}
+{"A": "P62988", "B": "Q15276", "error": "KeyError('organism')"}
+{"A": "P07196", "B": "Q8NI70", "error": "KeyError('organism')"}
+{"A": "P63329", "B": "P62161", "error": "KeyError('organism')"}
+{"A": "P20338", "B": "Q6WKZ4", "error": "HTTPError('408 Client Error: Request Timeout for url: https://www.ebi.ac.uk/interpro/api/protein/reviewed/entry/pfam/PF00168/taxonomy/uniprot/9606/?page_size=200')"}
+{"A": "P49185", "B": "Q4G050", "error": "HTTPError('404 Client Error: Not Found for url: https://www.ebi.ac.uk/interpro/api/entry/pfam/protein/uniprot/P49185/?page_size=200')"}
+{"A": "Q9YP87", "B": "Q06643", "error": "KeyError('organism')"}
+{"A": "P27882", "B": "P36046", "error": "HTTPError('400 Client Error: Bad Request for url: https://string-db.org/api/json/get_string_ids')"}
+{"A": "P11632", "B": "Q02821", "error": "HTTPError('400 Client Error: Bad Request for url: https://string-db.org/api/json/get_string_ids')"}
+{"A": "P11655", "B": "P48415", "error": "HTTPError('400 Client Error: Bad Request for url: https://string-db.org/api/json/get_string_ids')"}
+{"A": "Q9YP87", "B": "P50591", "error": "KeyError('organism')"}
+{"A": "G0TQZ9", "B": "Q9U6W1", "error": "KeyError('organism')"}
+{"A": "P10999", "B": "Q91783", "error": "HTTPError('404 Client Error: Not Found for url: https://string-db.org/api/json/get_string_ids')"}
+{"A": "Q5T3J3", "B": "Q8NI70", "error": "KeyError('organism')"}
+{"A": "P38431", "B": "P32481", "error": "HTTPError('400 Client Error: Bad Request for url: https://string-db.org/api/json/get_string_ids')"}
+{"A": "P35872", "B": "Q5SJE9", "error": "HTTPError('400 Client Error: Bad Request for url: https://string-db.org/api/json/get_string_ids')"}
+{"A": "P07249", "B": "P13574", "error": "HTTPError('400 Client Error: Bad Request for url: https://string-db.org/api/json/get_string_ids')"}
+{"A": "Q8NI70", "B": "Q9UKY1", "error": "KeyError('organism')"}
+{"A": "P55854", "B": "Q8NI70", "error": "KeyError('organism')"}
+{"A": "Q16891", "B": "Q8NI70", "error": "KeyError('organism')"}
+{"A": "Q9YP87", "B": "P41273", "error": "KeyError('organism')"}
+{"A": "Q9YP87", "B": "P32971", "error": "KeyError('organism')"}
+{"A": "P62988", "B": "Q15276", "error": "KeyError('organism')"}
+{"A": "P07196", "B": "Q8NI70", "error": "KeyError('organism')"}
+{"A": "P63329", "B": "P62161", "error": "KeyError('organism')"}
+{"A": "Q9YP87", "B": "Q06643", "error": "KeyError('organism')"}
+{"A": "Q9YP87", "B": "P50591", "error": "KeyError('organism')"}
+{"A": "G0TQZ9", "B": "Q9U6W1", "error": "KeyError('organism')"}
+{"A": "Q5T3J3", "B": "Q8NI70", "error": "KeyError('organism')"}
+{"A": "Q8NI70", "B": "Q9UKY1", "error": "KeyError('organism')"}
+{"A": "P55854", "B": "Q8NI70", "error": "KeyError('organism')"}
+{"A": "Q16891", "B": "Q8NI70", "error": "KeyError('organism')"}
+{"A": "Q9YP87", "B": "P41273", "error": "KeyError('organism')"}
+{"A": "Q9YP87", "B": "P32971", "error": "KeyError('organism')"}
+{"A": "P62988", "B": "Q15276", "error": "KeyError('organism')"}
+{"A": "P07196", "B": "Q8NI70", "error": "KeyError('organism')"}
+{"A": "P63329", "B": "P62161", "error": "KeyError('organism')"}
+{"A": "Q9YP87", "B": "Q06643", "error": "KeyError('organism')"}
+{"A": "Q9YP87", "B": "P50591", "error": "KeyError('organism')"}
+{"A": "G0TQZ9", "B": "Q9U6W1", "error": "KeyError('organism')"}
+{"A": "Q5T3J3", "B": "Q8NI70", "error": "KeyError('organism')"}
+{"A": "Q8NI70", "B": "Q9UKY1", "error": "KeyError('organism')"}
+{"A": "P55854", "B": "Q8NI70", "error": "KeyError('organism')"}
+{"A": "Q16891", "B": "Q8NI70", "error": "KeyError('organism')"}
+{"A": "Q9YP87", "B": "P41273", "error": "KeyError('organism')"}
+{"A": "Q9YP87", "B": "P32971", "error": "KeyError('organism')"}
+{"A": "P62988", "B": "Q15276", "error": "KeyError('organism')"}
+{"A": "P07196", "B": "Q8NI70", "error": "KeyError('organism')"}
+{"A": "P63329", "B": "P62161", "error": "KeyError('organism')"}
+{"A": "Q9YP87", "B": "Q06643", "error": "KeyError('organism')"}
+{"A": "Q9YP87", "B": "P50591", "error": "KeyError('organism')"}
+{"A": "G0TQZ9", "B": "Q9U6W1", "error": "KeyError('organism')"}
+{"A": "Q5T3J3", "B": "Q8NI70", "error": "KeyError('organism')"}
+{"A": "Q8NI70", "B": "Q9UKY1", "error": "KeyError('organism')"}
+{"A": "P55854", "B": "Q8NI70", "error": "KeyError('organism')"}
+{"A": "Q16891", "B": "Q8NI70", "error": "KeyError('organism')"}
+{"A": "Q9YP87", "B": "P41273", "error": "KeyError('organism')"}
+{"A": "Q9YP87", "B": "P32971", "error": "KeyError('organism')"}
+{"A": "P62988", "B": "Q15276", "error": "KeyError('organism')"}
+{"A": "P07196", "B": "Q8NI70", "error": "KeyError('organism')"}
+{"A": "P63329", "B": "P62161", "error": "KeyError('organism')"}
+{"A": "Q9YP87", "B": "Q06643", "error": "KeyError('organism')"}

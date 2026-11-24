@@ -1,0 +1,4 @@
+{"pair_A": "P62879", "pair_B": "Q92730", "member_A": "P62873", "gene_A": "GNB1", "member_B": "Q9Y272", "gene_B": "RASD1", "escore": 0.457, "score": 0.47, "kind": "other members"}
+{"pair_A": "P62879", "pair_B": "Q92730", "member_A": "P62873", "gene_A": "GNB1", "member_B": "P62834", "gene_B": "RAP1A", "escore": 0.457, "score": 0.47, "kind": "other members"}
+{"pair_A": "Q13868", "pair_B": "Q9NQT5", "member_A": "Q13868", "gene_A": "EXOSC2", "member_B": "Q9NQT5", "gene_B": "EXOSC3", "escore": 0.999, "score": 0.999, "kind": "A-B itself"}
+{"pair_A": "Q9NV88", "pair_B": "Q10570", "member_A": "Q9P2I0", "gene_A": "CPSF2", "member_B": "Q10570", "gene_B": "CPSF1", "escore": 0.999, "score": 0.999, "kind": "B binds fam(A)"}

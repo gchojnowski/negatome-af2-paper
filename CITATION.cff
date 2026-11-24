@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite the preprint listed under preferred-citation."
+title: "Can AlphaFold2 say no? Interface confidence on curated non-interacting proteins: data and analysis code"
+authors:
+  - family-names: Chojnowski
+    given-names: Grzegorz
+    affiliation: "Independent researcher, Hamburg, Germany"
+    orcid: "https://orcid.org/0000-0002-3796-8352"
+type: software
+version: "1.0.0"
+date-released: "2026-11-21"
+repository-code: "https://github.com/gchojnowski/negatome-af2-paper"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - AlphaFold2
+  - protein-protein interactions
+  - Negatome
+  - structure prediction
+  - false positives
+preferred-citation:
+  type: article
+  title: "Can AlphaFold2 say no? Interface confidence on curated non-interacting proteins"
+  authors:
+    - family-names: Chojnowski
+      given-names: Grzegorz
+      orcid: "https://orcid.org/0000-0002-3796-8352"
+  year: 2026
+  doi: ""

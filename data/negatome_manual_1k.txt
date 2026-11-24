@@ -1,0 +1,1000 @@
+Q6ZNK6	Q9Y4K3	15047173	MI:0019 - coimmunoprecipitation
+Q9NR31	Q15797	17356069	MI:0019 - coimmunoprecipitation
+P11627	P53986	20155396	MI:0411- enzyme linked immunosorbent assay
+P33176	Q96EK5	16225668	MI:0059 - gst pull down
+Q9NPY3	P02745	11994479	MI:0411- enzyme linked immunosorbent assay
+Q9SYQ8	O80809	20697738	MI:0110 - text mining, MI:0055 - fluorescent resonance energy transfer
+Q99576	O43524	20018851	MI:0019 - coimmunoprecipitation
+P55196	Q9NYB0	15857834	MI:0004 - affinity chromatography technologies
+Q16611	P45880	15757910	MI:0096 - pull down
+Q61508	P36888	9918857	MI:0019 - coimmunoprecipitation
+P02918	P02919	12057973	MI:0113 - western blot
+P11799-3	P62149	9706877	MI:1200 - immunocytochemistry
+Q09472	P16070	19506034	MI:0019 - coimmunoprecipitation
+P54130	P16092	8619928	MI:0004 - affinity chromatography technologies
+P54130	Q03142	8619928	MI:0004 - affinity chromatography technologies
+P02769	P04840	16678788	MI:0107 - surface plasmon resonance
+P41593	Q9WTJ5	15823033	MI:0019 - coimmunoprecipitation, MI:0113 - western blot
+P04003	P25942	17225862	MI:00921 - surface plasmon resonance array
+B3VK31	Q95JH1	15546884	MI:0019 - coimmunoprecipitation
+Q8IUD6	Q7Z434	19484123	MI:0019 - coimmunoprecipitation
+O95786	Q14258	19484123	MI:0019 - coimmunoprecipitation
+Q8IUD6	Q9BYX4	19484123	MI:0019 - coimmunoprecipitation
+O60423	Q3MIR4	20947505	MI:0019 - coimmunoprecipitation
+Q8TF62	Q3MIR4	20947505	MI:0019 - coimmunoprecipitation
+Q9Y2Q0	Q3MIR4	20947505	MI:0019 - coimmunoprecipitation
+Q9NTI2	Q3MIR4	20947505	MI:0019 - coimmunoprecipitation
+Q16512	Q15418	20957203	MI:0019 - coimmunoprecipitation
+Q16513	Q15418	20957203	MI:0019 - coimmunoprecipitation
+Q16513	P51812	20957203	MI:0019 - coimmunoprecipitation
+Q16512	P51812	20957203	MI:0019 - coimmunoprecipitation
+P38431	P32481	10769173	MI:0018 - two hybrid
+Q99575	Q96P20	18362139	MI:0004 - affinity chromatography technologies
+Q7JWH5	Q8IP45	18698375	MI:0019 - coimmunoprecipitation
+Q7JWH5	Q24311	18698375	MI:0019 - coimmunoprecipitation
+O00482	Q96EB6	20375098	MI:0019 - coimmunoprecipitation
+P52603	P08956	20007596	MI:1034 - nuclease assay
+F6IB71	P08956	20007596	MI:1034 - nuclease assay
+P52603	P08957	20007596	MI:0407 - direct interaction
+F6IB71	P08957	20007596	MI:0407 - direct interaction
+Q8QHK8	Q7ZX24	16084064	MI:0019 - coimmunoprecipitation
+Q9JIL3	Q63009	10749851	MI:0018 - two hybrid
+O15360	Q00597	10652215	MI:0018 - two hybrid
+P35872	Q5SJE9	20639538	MI:0077 - nuclear magnetic resonance, MI:0110 - text mining
+P10999	Q91783	20826821	MI:0019 - coimmunoprecipitation
+P35968	P17948	17550303	MI:0019 - coimmunoprecipitation
+Q5M9N9	P60484	19369943	MI:0019 - coimmunoprecipitation
+Q920R0	P00441	14970233	MI:0019 - coimmunoprecipitation
+P42212	P08238	21092208	MI:0019 - coimmunoprecipitation
+Q91XD2	Q15404	17026740	MI:0018 - two hybrid
+Q9GZX6	Q13651	10875937	MI:0019 - coimmunoprecipitation
+Q14526	P51531	19486893	MI:0019 - coimmunoprecipitation
+O15151-4	P04637	19721810	MI:0019 - coimmunoprecipitation, Mi:0110 - text mining
+Q04863	P15307	9070378	MI:0004 - affinity chromatography technologies
+Q04863	Q04207	9070378	MI:0004 - affinity chromatography technologies
+Q13586	Q13507	17486119	MI:0019 - coimmunoprecipitation
+Q13586	Q9Y210	17486119	MI:0019 - coimmunoprecipitation
+O95999	Q13489	19279678	MI:0004 - affinity chromatography technologies
+Q86Y07	P51452	18286207	MI:0096 - pull down
+Q86Y07-2	P49116	18286207	MI:0096 - pull down
+Q86Y07-2	O14733	18286207	MI:0096 - pull down
+P34741	P05230	2528552	MI:0004 - affinity chromatography technologies
+Q9QXX8	Q61584	10556305	MI:0018 - two-hybrid, MI:0059 - gst pull down
+Q9QXX8	Q9WVR4	10556305	MI:0018 - two hybrid MI:0059 - gst pulldown
+Q61206	Q924X6	17330141	MI:0019 - coimmunoprecipitation
+Q61205	Q924X6	17330141	MI:0019 - coimmunoprecipitation
+Q9FE22	P14712	10995393	MI:0019 - coimmunoprecipitation
+Q9FE22	P14713	10995393	MI:0004 - affinity chromatography technologies
+Q8CBD1	P68254	18628823	MI:0019 - coimmunoprecipitation
+Q8TEW0	P53667	16505165	MI:0096 - pull down
+Q61559	P27512	21148035	MI:0110 - text mining, MI:0114 x-ray crystallography
+Q8AVZ3	Q91783	20826821	MI:0019 - coimmunoprecipitation
+Q15750-2	P49116	12429732	MI:0019 - coimmunoprecipitation
+P35917	P35918	7970715	MI:0004 - affinity chromatography technologies
+P35917	Q00731	8617204	MI:0004 - affinity chromatography technologies
+Q99986	P18754	18617507	MI:0059 - gst pull down
+Q9ULX6	P13861	10761695	MI:0019 - coimmunoprecipitation
+Q9ULX6	O43823	10761695	MI:0019 - coimmunoprecipitation
+Q7L3B6	P04049	11413142	MI:0019 - coimmunoprecipitation
+Q8IXI2	O60282	19249275	MI:0096 - pull down,MI:0110 - text mining
+Q8IRY7	Q9W2K2	20404111	MI:0019 - coimmunoprecipitation
+Q9VEN9	Q9VVI2	20404111	MI:0019 - coimmunoprecipitation
+Q9VEN9	Q9VTZ0	20404111	MI:0019 - coimmunoprecipitation
+Q15797	Q9UM13	15144564	MI:0019 - coimmunoprecipitation
+Q13485	Q9UM13	15144564	MI:0019 - coimmunoprecipitation
+Q9WTW2	P23299	19623261	MI:0019 - coimmunoprecipitation
+Q56P03	Q16254	15716352	MI:0059 - gst pull down
+Q9JM90	O60674	10679268	MI:0018 - two hybrid
+Q9JM90	Q9QVP9	10679268	MI:0018 - two hybrid
+Q9Y371	Q07812	19805544	MI:0018 - two hybrid
+Q62417-3	P18206	12765336	MI:0019 - coimmunoprecipitation
+Q9FEG2	P18064	18671868	MI:0018 - two hybrid
+Q39128	P18064	18671868	MI:0018 - two hybrid, MI:0110 - text mining
+O89100	Q9Z1S8	11997510	MI:0018 - two hybrid, MI:0019 - coimmunoprecipitation
+P35570	P62994	7893993	MI:0019 - coimmunoprecipitation, MI:0110 - text mining
+Q1JU68	P07522	3261240	MI:0019 - coimmunoprecipitation
+Q66HA7	P62960	7878029	MI:0059 - gst pull down
+Q66HA7	Q62725	7878029	MI:0059 - gst pull down
+Q13905	P46108	8621483	MI:0019 - coimmunoprecipitation
+Q13905	Q9UHJ6	8621483	MI:0019 - coimmunoprecipitation
+Q13905	P62993	8621483	MI:0019 - coimmunoprecipitation
+P15498	P29353	8621483	MI:0019 - coimmunoprecipitation
+P15498	P62993	8621483	MI:0019 - coimmunoprecipitation
+P15499	Q9JJZ9	20238003	MI:0019 - coimmunoprecipitation
+P15976	Q05513	12139760	MI:0019 - coimmunoprecipitation
+P63165	Q9Y2Q3	18025037	MI:0059 - gst pull down
+Q96B97	Q92956	16223483	MI:0019 - coimmunoprecipitation
+Q99626	P20226	17158164	MI:0019 - coimmunoprecipitation MI:0059 - gst pull down
+Q5JTD0	Q9Y624	11602598	MI:0022 - colocalization by immunostaining
+Q5JTD0	A5JSJ9	11602598	MI:0022 - colocalization by immunostaining
+Q5JTD0	Q07157	11602598	MI:0022 - colocalization by immunostaining
+Q99K43	P38532	18570919	MI:0018 - two hybrid
+Q9P055	Q6PJ80	19822669	MI:0019 - coimmunoprecipitation
+Q9UBP5	Q92575	19822669	MI:0019 - coimmunoprecipitation
+Q92890	Q92575	19822669	MI:0019 - coimmunoprecipitation
+Q9NZQ7	P16410	10581077	MI:0422 - immunostaining
+Q965M2	P12643	20502686	MI:0019 - coimmunoprecipitation
+Q66T02	P63001	20811643	MI:0096 - pull down
+Q66T02	P60766	20811643	MI:0096 - pull down
+Q9QUL0	P01237	18467328	MI:0004 - affinity chromatography technologies
+O15379	Q99814	21151670	MI:0019 - coimmunoprecipitation, MI:0110 - text mining
+P02870	Q8C129	3435894	MI:0848 - 125i radiolabel, MI:0807 - comigration in gel electrophoresis
+Q9AVB0	Q8C129	3435894	MI:0848 - 125i radiolabel, MI:0807 - comigration in gel electrophoresis
+Q43373	Q8C129	3435894	MI:0848 - 125i radiolabel, MI:0807 - comigration in gel electrophoresis
+P43407	P21981	20929862	MI:0019 - coimmunoprecipitation
+Q9UKG1	P20338	17581628	MI:0059 - gst pull down
+Q9UKG1	P51149	17581628	MI:0059 - gst pull down
+Q9UKG1	P62491	17581628	MI:0059 - gst pull down
+Q8NEU8	P20338	17581628	MI:0059 - gst pull down
+Q8NEU8	P51149	17581628	MI:0059 - gst pull down
+Q8NEU8	P62491	17581628	MI:0059 - gst pull down
+P02753	P52205	1092676	MI:0071 - molecular sieving
+Q92769	Q04206	11564889	MI:0019 - coimmunoprecipitation
+Q96AD5	Q8CGN5	18549477	MI:0110 - text mining, MI:0809 - bimolecular fluorescence complementation
+P25822	P31007-7	18463699	MI:0004 - affinity chromatography technologies
+Q9NV70	P61586	17319956	MI0018 - two hybrid, MI:0110 - text mining
+P12259	P01023	2473541	MI:0071 - molecular sieving
+P49815	Q13309	15355997	MI:0019 - coimmunoprecipitation
+Q92574	P46527	15355997	MI:0019 - coimmunoprecipitation
+Q92574	Q13309	15355997	MI:0019 - coimmunoprecipitation
+P46414	Q03147	7954814	MI:0019 - coimmunoprecipitation
+Q9WTW1	P31016	9768844	MI:0019 - coimmunoprecipitation
+P97879	P31016	9768844	MI:0019 - coimmunoprecipitation
+P23804	P02340	10075719	MI:0019 - coimmunoprecipitation
+P10398	Q07817	11279541	MI:0019 - coimmunoprecipitation
+P10398	P10415	11279541	MI:0019 - coimmunoprecipitation
+P04792	P23588	10859165	MI:0004 - affinity chromatography technologies
+P04792	Q14152	10859165	MI:0004 - affinity chromatography technologies
+P04792	P60842	10859165	MI:0004 - affinity chromatography technologies
+P04792	P19940	10859165	MI:0004 - affinity chromatography technologies
+P48736	O00459	7624799	MI:0401 - biochemical
+Q16512	Q9Y2U5	10818102	MI:0004 - affinity chromatography technologies
+Q16513	Q99759	10818102	MI:0018 - two hybrid
+P26955	P04401	8258700	MI:0004 - affinity chromatography technologies
+Q07817	Q7Z434	20661427	MI:0019 - coimmunoprecipitation
+O60313	Q7Z434	20661427	MI:0019 - coimmunoprecipitation
+Q8R4G0	O08747	14595443	MI:0004 - affinity chromatography technologies
+Q8R4G0	Q8K1S3	14595443	MI:0004 - affinity chromatography technologies
+Q99J85	Q8BP92	10748068	MI:0004 - affinity chromatography technologies
+O75791	Q07666	9872323	MI:0019 - coimmunoprecipitation
+O75791	Q07889	9872323	MI:0019 - coimmunoprecipitation
+O75791	P22681	9872323	MI:0019 - coimmunoprecipitation
+Q13158	Q14790	14612908	MI:0019 - coimmunoprecipitation
+P30658	A2AM29	11439343	MI:0018 - two hybrid
+Q8BH43	P63001	14765121	MI:0059 - gst pull down
+Q5UEC5	Q9VR21	15456720	MI:0218 - physical interaction
+Q5UEC5	P47825	15456720	MI:0218 - physical interaction
+Q8VHZ5	Q9EP53	19129461	MI:0019 - coimmunoprecipitation
+Q8VHZ5	Q61037	19129461	MI:0019 - coimmunoprecipitation
+P15531	Q00987	21504894	MI:0018 - two hybrid
+P10993	P58772	8931542	MI:0027 - cosedimentation
+P04626	O00459	21127748	MI:0019 - coimmunoprecipitation, MI:0110 - text mining
+P22455	P09038	1709094	MI:0004 - affinity chromatography technologies
+P21836	P02866	12065653	MI:0004 - affinity chromatography technologies
+Q8BGS1	P62331	18794329	MI:1016 - fluorescence recovery after photobleaching
+Q09163	Q01705	20457810	MI:0019 - coimmunoprecipitation
+Q9WTL8	P45481	19922678	MI:0019 - coimmunoprecipitation
+O08785	P45481	19922678	MI:0019 - coimmunoprecipitation
+Q9Y613	P61586	11590143	MI:0019 - coimmunoprecipitation
+Q9Y613	P60953	11590143	MI:0019 - coimmunoprecipitation
+Q9Y613	P15153	11590143	MI:0019 - coimmunoprecipitation
+Q9Y613	P60763	11590143	MI:0019 - coimmunoprecipitation
+P13405	Q61501	7675450	MI:0413 - electrophoretic mobility shift assay
+Q8IQW0	P08646	19000833	MI:0019 - coimmunoprecipitation
+Q08877	Q62600	21490139	Mi:0019 - coimmunoprecipitation, MI:0027 - cosedimentation
+P39052	Q62600	21490139	Mi:0019 - coimmunoprecipitation, MI:0027 - cosedimentation
+P49767	P17948	20145116	MI:0114 - x-ray crystallography
+P03244	Q14790	9606216	MI:0019 - coimmunoprecipitation
+P23804-2	P02340	14522887	MI:0019 - coimmunoprecipitation
+P29353	P05067	12485888	MI:0019 - coimmunoprecipitation
+P0AG74	P24230	17028102	MI:0110 - text mining, MI:0413 - electrophoretic mobility shift assay
+P49207	P06493	10049762	MI:0018 - two hybrid
+Q90681	P01344	8398120	MI:0004 - affinity chromatography technologies
+Q32NU6	P01344	8398120	MI:0004 - affinity chromatography technologies
+P22736	Q14686	11559707	MI:0019 - coimmunoprecipitation
+Q9Y6X2	P42224	9388184	MI:0019 - coimmunoprecipitation
+P23511	P20226	17098936	MI:0113 - western blot
+P07249	P13574	1756729	MI:0413 - electrophoretic mobility supershift assay
+P07249	P19419	1756729	MI:0413 - electrophoretic mobility supershift assay
+P17839	P13574	1756729	MI:0413 - electrophoretic mobility supershift assay
+P17839	P19419	1756729	MI:0413 - electrophoretic mobility supershift assay
+Q9UBF6	P68400	10512750	MI:0018 - two hybrid
+Q7Z6M1	P51149	9230071	MI:0018 - two hybrid
+Q7Z6M1	P01112	9230071	MI:0018 - two hybrid
+P39060	P15692	12029087	MI:0004 - affinity chromatography technologies
+O14543	O60674	11713228	MI:0019 - coimmunoprecipitation
+P22681	Q6PIZ9	20298603	MI:0019 - coimmunoprecipitation
+Q13571	Q6PIZ9	20298603	MI:0019 - coimmunoprecipitation
+P20963	Q6PIZ9	20298603	MI:0663 - confocal microscopy
+P04156	Q9UM11	18714380	MI:019 - coimmunoprecipitation, MI:0110 - text mining
+G3V608	Q08125	8244211	MI:0004 - affinity chromatography technologies
+P02771	P02870	2434121	MI:0892 - solid phase assay
+Q9J5U5	P32927	10627542	MI:0004 - affinity chromatography technologies
+Q9J5U5	P60568	10627542	MI:0004 - affinity chromatography technologies
+Q9ERI2	Q99104	12006666	MI:0004 - affinity chromatography technologies
+Q99N11	Q03137	12138158	MI:0019 - coimmunoprecipitation
+P00813	P27487	8635502	MI:0401 - biochemical
+Q9U377	Q20758	16725058	MI:0018 - two hybrid
+Q9U377	O45379	16725058	MI:0018 - two hybrid
+Q9U377	Q9N3C8	16725058	MI:0018 - two hybrid
+Q9UIL1	Q20758	16725058	MI:0010 - beta galactosidase complementation
+Q9UIL1	O45379	16725058	MI:0010 - beta galactosidase complementation
+Q9UIL1	Q9N3C8	16725058	MI:0010 - beta galactosidase complementation
+P46934	Q9Y5X1	20491914	MI:0059 - gst pull down
+P27882	P36046	18852299	MI:0019 - coimmunoprecipitation
+O08715	P31324	11742813	MI:1200 - immunocytochemistry
+Q64092	Q03141	20214879	MI:0019 - coimmunoprecipitation
+P68400	P17480	16971462	MI:0004 - affinity chromatography technologies
+P06730	Q9HB40	16756390	MI:0004 - affinity chromatography technologies
+P06730	Q9UKV8	16756390	MI:0004 - affinity chromatography technologies
+P70371	Q6PFX9	12080061	MI:0004 - affinity chromatography technologies
+P70371	Q3UES3	12080061	MI:0004 - affinity chromatography technologies
+Q6NXK8	Q62108	19571134	MI:0019 - coimmunoprecipitation
+Q9UJW0	Q04656	16554302	MI:0019 - coimmunoprecipitation
+Q8N668	O00244	16554302	MI:0059 - gst pull down, MI:0110 - text mining
+Q8N668	Q762B6	16554302	MI:0059 - gst pull down, MI:0110 - text mining
+P69908	P62199	8366104	MI:0047 - far western blotting
+Q8NHR9	P60709	19419568	MI:0019 - coimmunoprecipitation
+P35548	P29590	19835636	MI:0019 - coimmunoprecipitation
+P17560	P00797	6756682	MI:0027 - cosedimentation
+O55055	Q9UJW3	12777184	MI:0018 - two hybrid
+Q9UBB5	Q9UJW3	12777184	MI:0018 - two hybrid
+O95983	Q9UJW3	12777184	MI:0018 - two hybrid
+Q8UVW8	P51167	15753079	MI:0004 - affinity chromatography technologies
+P02730	P16157	7798219	MI:0027 - cosedimentation
+P01186	P30560	11804401	MI:0045 - experimental
+P17141	P25976	21059229	MI:0059 - gst pull down
+P63244	P04637	12761493	MI:0019 - coimmunoprecipitation
+P15208	P05017	20398329	MI:0110 - text mining, MI:0113 - western blot
+P51677	P10147	8642344	MI:0405 - competition binding
+P51677	P13236	8642344	MI:0405 - competition binding
+P34932	Q07812	16172114	MI:0915 - physical association
+P97471	P70323	19557177	MI:0004 - affinity chromatography technologies
+P97454	P70323	19557177	MI:0004 - affinity chromatography technologies
+O35182	P70323	19557177	MI:0004 - affinity chromatography technologies
+P63170	P29476-3	12533411	MI:0059 - gst pull down
+P04233	P46531	19849849	MI:0019 - coimmunoprecipitation
+Q06481	P04233	19849849	MI:0019 - coimmunoprecipitation
+Q99497	Q9UBK2	18689799	MI:0019 - coimmunoprecipitation
+P63104	P49841	15963640	MI:0019 - coimmunoprecipitation
+P63104	P10636	15963640	MI:0019 - coimmunoprecipitation
+P16333	P00533	9362449	MI:0004 - affinity chromatography technologies
+Q8CGY6	P02609	18478096	MI:0004 - affinity chromatography technologies
+Q96QF0	Q16384	12007189	MI:0018 - two hybrid
+Q96QF0	Q99909	12007189	MI:0018 - two hybrid
+Q96QF0	O60224	12007189	MI:0018 - two hybrid
+Q9Y2D8	Q16384	12007189	MI:0018 - two hybrid
+Q9Y2D8	O60224	12007189	MI:0018 - two hybrid
+Q60972	Q01147	10866654	MI:0018 - two hybrid
+Q92769	P78364	10581039	MI:0018 - two hybrid
+Q92769	Q9BQ52	10581039	MI:0018 - two hybrid
+Q92769	Q06587	10581039	MI:0018 - two hybrid
+Q92769	P25916	10581039	MI:0018 - two hybrid
+P41587	O60894	19394311	MI:0054 - fluorescence-activated cell sorting
+P41587	O60895	19394311	MI:0054 - fluorescence-activated cell sorting
+P41587	O60896	19394311	MI:0054 - fluorescence-activated cell sorting
+Q60954	Q789F3	11036080	MI:0004 - affinity chromatography technologies
+P01100	P35452	11036080	MI:0059 - gst pull down
+O34580	P37455	21170359	MI:0069 - mass spectrometry studies of complexes
+P54394	P37455	21170359	MI:0069 - mass spectrometry studies of complexes
+P22303	P02866	11032625	MI:0004 - affinity chromatography technologies
+P61073	P51681	12433920	MI:0019 - coimmunoprecipitation
+P00915	P02730	11063570	MI:0411- enzyme linked immunosorbent assay
+B7SGZ7	P05549	19895210	MI:0045 - experimental
+P06400	P84022	12150994	MI:0007 - anti tag coimmunoprecipitation
+Q08999	P84022	20359370	MI:0019 - coimmunoprecipitation, MI:0110 - text mining
+Q8C863	Q01705	18628966	MI:0004 - affinity chromatography technologies
+P0AG86	P02925	2254262	MI:0045 - experimental
+P70188	Q03059	19088126	MI:0029 - cosedimentation through density gradient
+Q8TCT9	P04233	20196774	MI:0019 - coimmunoprecipitation
+Q8TCT9	Q9Y6X1	20196774	MI:0019 - coimmunoprecipitation
+P31786	O89090	14530276	MI:0040 - electron microscopy
+P31786	P06537	14530276	MI:0040 - electron microscopy
+P24394	P35225	7907877	MI:0110 - text mining, MI:0405 - competition binding
+Q8WXW3	P24394	16393965	MI:0411- enzyme linked immunosorbent assay
+Q8CF89	Q64729	19556242	MI:0019 - coimmunoprecipitation
+Q8CF89	Q62312	19556242	MI:0019 - coimmunoprecipitation
+P49848	Q15545	7667268	MI:0019 - coimmunoprecipitation
+P54921	Q63666	7836452	MI:0004 - affinity chromatography technologies
+O15197	Q5JZY3	21737611	MI:0019 - coimmunoprecipitation
+Q6DQH2	P25963	17567906	MI:0059 - gst pull down
+Q6DQH2	Q13158	17567906	MI:0059 - gst pull down
+Q6DQH2	Q13546	17567906	MI:0059 - gst pull down
+Q6DQH2	P25446	17567906	MI:0059 - gst pull down
+P20023	O00459	9886379	MI:0019 - coimmunoprecipitation
+O35657	P01132	2690595	MI:0004 - affinity chromatography technology, MI:0110 - text mining
+Q01831	P0A9H1	20798892	MI:0059 - gst pull down
+P09471	O00167	15308761	MI:0004 - affinity chromatography technologies
+Q0VC48	Q28177	12860419	MI:0047 - far western blotting
+Q0VC48	P48616	12860419	MI:0047 - far western blotting
+P20942	Q32L40	15583139	MI:0019 - coimmunoprecipitation
+Q8N6C5	P05111	12385827	MI:0004 - affinity chromatography technologies
+Q8N6C5	P09529	12385827	MI:0004 - affinity chromatography technologies
+Q86XR8	P05230	12717444	MI:0411- enzyme linked immunosorbent assay
+P08047	Q9Y294	12759364	MI:0059 - gst pull down
+P15172	Q01105	12759364	MI:0059 - gst pull down
+P19838	Q01105	12759364	MI:0059 - gst pull down
+P04637	Q01105	12759364	MI:0059 - gst pull down
+Q68396	P32971	19134204	MI:0110 - text mining, MI:0411 - enzyme linked immunosorbent assay
+Q68396	O95150	19134204	MI:0110 - text mining, MI:0411 - enzyme linked immunosorbent assay
+P06729	P09326	7520278	MI:0107 - surface plasmon resonance
+P06729	P13987	7520278	MI:0107 - surface plasmon resonance
+Q13347	P27037	7566156	MI:0019 - coimmunoprecipitation
+Q13347	Q04771	7566156	MI:0018 - two hybrid
+Q13347	P36897	7566156	MI:0018 - two hybrid
+P0A6A8	P0AG20	17078815	MI:0018 - two hybrid
+P11084	P30154	8384557	MI:0071 - molecular sieving
+Q922H7	Q62432	15239668	MI:0019 - coimmunoprecipitation
+Q922H7	Q8BUN5	15239668	MI:0019 - coimmunoprecipitation
+Q922H7	P97471	15239668	MI:0019 - coimmunoprecipitation
+Q922H7	O35182	15239668	MI:0019 - coimmunoprecipitation
+Q922H7	O35253	15239668	MI:0019 - coimmunoprecipitation
+Q15628	O00220	10894161	MI:0019 - coimmunoprecipitation
+O70355	P09793	17237401	MI:0054 - fluorescence-activated cell sorting
+Q13546	O00220	10894161	MI:0019 - coimmunoprecipitation
+Q15628	O14763	10894161	MI:0019 - coimmunoprecipitation
+Q13546	O14763	10894161	MI:0019 - coimmunoprecipitation
+P49597	Q38898	11181729	MI:0018 - two hybrid
+P36871	P25815	20827422	MI:0004 - affinity chromatography technologies
+Q9Y4K3	Q14653	19479062	MI:0019 - coimmunoprecipitation
+Q8W420	Q9LVG4	15310821	MI:0018 - two hybrid
+Q8W420	Q93WK5	15310821	MI:0018 - two hybrid
+Q8W420	Q8L500	15310821	MI:0018 - two hybrid
+Q8W420	P92973	15310821	MI:0018 - two hybrid
+Q8W420	Q6R0H1	15310821	MI:0018 - two hybrid
+P21183	P04401	1942734	MI:0004 - affinity chromatography technologies
+P27699	Q8R4I4	14512522	MI:0018 - two hybrid
+B7Z018	Q02870	19008953	MI:0045 - experimental
+B9EKI3	P42224	15467733	MI:0019 - coimmunoprecipitation
+Q8K094	Q9QZQ1	12740392	MI:0019 - coimmunoprecipitation
+P98078-3	P08081	20231386	MI:0113 - western blot
+Q14186	P24941	7969176	MI:0019 - coimmunoprecipitation
+Q14186	P78396	7969176	MI:0019 - coimmunoprecipitation
+P10745	P62157	2834519	MI:0004 - affinity chromatography technologies
+P09382	P17948	18223683	MI:0921 - surface plasmon resonance array
+P09382	P35968	18223683	MI:0921 - surface plasmon resonance array
+P09382	P35916	18223683	MI:0921 - surface plasmon resonance array
+P62826	Q7L099	20376209	MI:0059 - gst pull down
+P61019	Q7L099	20376209	MI:0004 - affinity chromatography technologies
+P51149	Q7L099	20376209	MI:0059 - gst pull down
+O00212	Q7L099	20376209	MI:0059 - gst pull down
+Q07832	Q61037	18291711	MI:0019 - coimmunoprecipitation
+Q9P0N9	P49815	18291711	MI:0019 - coimmunoprecipitation
+P31946	Q92574	18291711	MI:0019 - coimmunoprecipitation
+P62258	Q92574	18291711	MI:0019 - coimmunoprecipitation
+P61981	Q92574	18291711	MI:0019 - coimmunoprecipitation
+Q04917	Q92574	18291711	MI:0019 - coimmunoprecipitation
+P63104	Q92574	18291711	MI:0019 - coimmunoprecipitation
+O14640	Q92574	18291711	MI:0019 - coimmunoprecipitation
+P31749	Q92574	18291711	MI:0019 - coimmunoprecipitation
+Q12778	Q92574	18291711	MI:0019 - coimmunoprecipitation
+P63330	Q9EP53	18291711	MI:0019 - coimmunoprecipitation
+O94907	Q9BQB4	18521528	MI:0019 - coimmunoprecipitation
+P98066	P12645	18586671	MI:0411- enzyme linked immunosorbent assay
+Q08117	Q13547	20676368	MI:0019 - coimmunoprecipitation, MI:0110 -text mining
+Q08117	O15379	20676368	MI:0004 - affinity chromatography technology, MI:0110 - text mining
+O60716	P60568	8217217	MI:0019 - coimmunoprecipitation
+O26901	P0AGE0	21195035	MI:0096 - pull down
+P40933	P01589	8568232	MI:0019 - coimmunoprecipitation
+P00973	Q9UIS9	14728690	MI:0018 - two hybrid
+P07911	P01375	8344699	MI:0113 - western blot
+O24456	P49177	19651700	MI:0397 - two hybrid array
+P02769	P00747	20582320	MI:0411- enzyme linked immunosorbent assay
+Q9H2X6	P04637	11532197	MI:0113 - western blot
+Q9H2X6	Q00987	11532197	MI:0113 - western blot
+P15692-8	O14786	16909199	MI:0411- enzyme linked immunosorbent assay
+P51680	P10855	9192769	MI:0405 - competition binding
+P51680	P30882	9192769	MI:0405 - competition binding
+P51680	P14097	9192769	MI:0405 - competition binding
+Q9H204	P26038	17980164	MI:0004 - affinity chromatography technology, MI:0110 - text mmining
+Q07436	P46150	17980164	MI:0110 - text mining, MI:0113 - western blot
+Q8R0L9	P03372	20413580	MI:0004 - affinity chromatography technology, MI:0110 - text mining
+P32494	P10276	20413580	MI:0004 - affinity chromatography technologies
+O75528	P10276	20413580	MI:0019 - coimmunoprecipitation
+Q9CZA6	P15331	18431495	MI:0019 - coimmunoprecipitation
+Q9YP87	Q06643	8806547	MI:0833 - autoradiography
+Q9YP87	P32971	8806547	MI:0833 – autoradiography
+Q9YP87	P41273	8806547	MI:0833 – autoradiography
+Q9YP87	P50591	8806547	MI:0833 – autoradiography
+P06750	P97797	17825046	MI:0004 - affinity chromatography technologies
+Q8CJ26	P01139	15028767	MI:0030 - cross-linking
+P59190	Q15276	12105226	MI:0018 - two hybrid
+P59190	Q9UJ41	12105226	MI:0018 - two hybrid
+Q10282	P27584	17244888	MI:0018 - two hybrid, MI:0110 - text mining
+Q03405	P00749	15677461	MI:0405 - competition binding
+Q03405	P27701	15677461	MI:0019 - coimmunoprecipitation
+Q02040	Q01081	16982639	MI:0018 - two hybrid
+Q02040	P26368	16982639	MI:0018 - two hybrid
+P09951	P19491	19450252	MI:0019 - coimmunoprecipitation
+O60832	O15360	10744426	MI:0019 - coimmunoprecipitation
+G5DGD4	O24017	20497382	MI:0018 - two hybrid
+Q9SYV0	O24017	20497382	MI:0018 - two hybrid
+P30533	P05067	19275634	MI:0411- enzyme linked immunosorbent assay
+O35718	P52332	10534114	MI:0019 - co-immunoprecipitation, MI:0110 - text mining
+O35718	Q62120	10534114	MI:0019 - coimmunoprecipitation, MI:0110 - text mining
+P11473	Q96RL1	17311814	MI:0018 - two hybrid
+P15207	Q96RL1	17311814	MI:0018 - two hybrid
+P37231	Q96RL1	17311814	MI:0018 - two hybrid
+P19793	Q96RL1	17311814	MI:0018 - two hybrid
+Q13133	Q96RL1	17311814	MI:0018 - two hybrid
+P13631	Q96RL1	17311814	MI:0018 - two hybrid
+P51449	Q96RL1	17311814	MI:0018 - two hybrid
+Q9NV88	Q9UKF6	15684398	MI:0019 - coimmunoprecipitation
+Q5TA45	Q10570	15684398	MI:0019 - coimmunoprecipitation
+Q9NV88	Q10570	15684398	MI:0019 - coimmunoprecipitation
+P22607-3	P09038	9218449	MI:0405 - competition binding
+P22607-3	P21781	9218449	MI:0405 - competition binding
+P19784	Q13526	11940573	MI:0004 - affinity chromatography technologies
+P97946	P35918	20615255	MI:0030 - cross-linking study
+Q8K4N8	P70196	12418963	MI:0019 - coimmunoprecipitation
+P22897	P02769	17925857	MI:0054 - fluorescence-activated cell sorting
+Q9NNX6	P02769	17925857	MI:0054 - fluorescence-activated cell sorting
+Q9UI95	Q9Y6D9	11459826	MI:0004 - affinity chromatography technologies
+Q99650	P15018	8119965	MI:0405 - competition binding
+P13725	P42702	8119965	MI:0004 - affinity chromatography technology, MI:0110 - text mining
+O08674	Q01705	9111338	MI:0059 - gst pull down
+O08674	O35516	9111338	MI:0059 - gst pull down
+O08674	Q61982	9111338	MI:0059 - gst pull down
+O08674	P31695	9111338	MI:0059 - gst pull down
+P55072	P13569	17272822	MI:0019 - coimmunoprecipitation
+P01857	P26151	20422027	MI:0110 - text mining, MI:0411 - enzyme linked immunosorbent assay
+C9WF17	Q26807	20182644	MI:0004 - affinity chromatography technologies
+P46662	Q61391	19388049	MI:0019 - coimmunoprecipitation
+Q92990	P08069	11571281	MI:0018 - two hybrid
+Q92990	P06213	11571281	MI:0018 - two hybrid
+P63244	P63096	14963031	MI:0030 - cross-linking study
+P63244	P63092	14963031	MI:0030 - cross-linking study
+P63244	P50148	14963031	MI:0030 - cross-linking study
+A1X4Q1	O14745	11786550	MI:0059 - gst pull down
+A1X4Q1	Q15599	11786550	MI:0059 - gst pull down
+Q80X44	O08734	16227588	MI:0019 - coimmunoprecipitation
+P63244	Q07343-2	10329691	MI:0096 - pull down
+P63244	Q07343-3	10329691	MI:0096 - pull down
+P63244	Q08493-2	10329691	MI:0096 - pull down
+P63244	Q08499-4	10329691	MI:0096 - pull down
+P63244	Q08499-5	10329691	MI:0096 - pull down
+P63244	Q08499-7	10329691	MI:0096 - pull down
+Q08499-6	P62873	10329691	MI:0018 - two hybrid
+P56546	P30658	9858600	MI:0018 - two hybrid
+Q96EV8	P48729	16618118	MI:0096 - pull down
+Q96EV8	P48730	16618118	MI:0096 - pull down
+Q96EV8	P49674	16618118	MI:0096 - pull down
+Q9BQY9	P48729	16618118	MI:0096 - pull down
+P10242	P04637	8616838	MI:0019 - coimmunoprecipitation, MI:0070 - mobility shift
+P06876	P02340	8616838	MI:0019 - coimmunoprecipitation, MI:0070 - mobility shift
+Q07325	Q16570	15214968	MI:0110 - text mining, MI:0054 - fluorescence-activated cell sorting
+P02778	Q16570	15214968	MI:0110 - text mining, MI:0054 - fluorescence-activated cell sorting
+P27918	P08174	17182573	MI:0107 - surface plasmon resonance
+Q15910	Q9BQ52	9584199	MI:0019 - coimmunoprecipitation
+Q15910	P35226	9584199	MI:0019 - coimmunoprecipitation
+P25697	P25856	16258009	MI:0071 - molecular sieving
+P25697	Q9LZP9	16258009	MI:0071 - molecular sieving
+P24786	P01139	1653651	MI:0030 - cross-linking study
+P24786	P21237	1653651	MI:0030 - cross-linking study
+P60891	Q92793	15943588	MI:0059 - gst pull down
+P11632	Q02821	11422939	MI:0059 - gst pull down
+G0TQZ9	Q9U6W1	18430140	MI:0416 - fluorescence microscopy
+Q5FWY5	P54748-2	12810716	MI:0018 - two hybrid
+Q5FWY5	P14646-2	12810716	MI:0018 - two hybrid
+Q5FWY5	P14646-1	12810716	MI:0018 - two hybrid
+Q5FWY5	P14270-1	12810716	MI:0018 - two hybrid
+P07620	P0A9A6	16899080	MI:0018 - two hybrid
+P07621	P0A9A6	16899080	MI:0018 - two hybrid
+P07620	P0A9X4	16899080	MI:0018 - two hybrid
+P07621	P0A9X4	16899080	MI:0018 - two hybrid
+P07620	P0ABH0	16899080	MI:0018 - two hybrid
+P07621	P0ABH0	16899080	MI:0018 - two hybrid
+P07620	P0A6S5	16899080	MI:0018 - two hybrid
+P07621	P0A6S5	16899080	MI:0018 - two hybrid
+P07620	P0AD68	16899080	MI:0018 - two hybrid
+P07621	P0AD68	16899080	MI:0018 - two hybrid
+P07620	P0AEN4	16899080	MI:0018 - two hybrid
+P07621	P0AEN4	16899080	MI:0018 - two hybrid
+P07620	P29131	16899080	MI:0018 - two hybrid
+P07621	P29131	16899080	MI:0018 - two hybrid
+P07620	P06136	16899080	MI:0018 - two hybrid
+P07621	P06136	16899080	MI:0018 - two hybrid
+P07620	P0ABG4	16899080	MI:0018 - two hybrid
+P07621	P0ABG4	16899080	MI:0018 - two hybrid
+P07620	P0AC30	16899080	MI:0018 - two hybrid
+Q9FEG2	P18064	18671868	MI:0018 - two hybrid
+P07621	P0AC30	16899080	MI:0004 - affinity chromatography technologies
+Q8IUC6	O00206	14519765	MI:0018 - two hybrid
+Q15303-3	P27986	10353604	MI:0019 - coimmunoprecipitation
+P70434	B2RWS6	10920266	MI:0059 - gst pull down
+P70671	B2RWS6	10920266	MI:0059 - gst pull down
+P26955	P04351	1695379	MI:0027 - cosedimentation
+P26955	P08700	1695379	MI:0027 - cosedimentation
+P26955	P05112	1695379	MI:0027 - cosedimentation
+P26955	P01587	1828890	MI:0405 - competition binding, MI:0110 - text mining
+P26955	P15247	1695379	MI:0027 - cosedimentation
+P26955	P07321	1695379	MI:0027 - cosedimentation
+B2ZZS9	H2LD76	18769712	MI:0019 - coimmunoprecipitation
+B2ZZS9	H2L8A6	18769712	MI:0019 - coimmunoprecipitation
+B2ZZS9	H2LUV9	18769712	MI:0019 - coimmunoprecipitation
+P19492	Q9QUL6	15797712	MI:0422 - immunostaining
+P49765	P35968	19244214	MI:0004 - affinity chromatography technology, MI:0110 - text mining
+P02769	O27798	16150924	MI:0047 - far western blotting
+Q9Y4K3	P25942	10428814	MI:0004 - affinity chromatography technologies
+Q13077	P25942	10428814	MI:0004 - affinity chromatography technologies
+Q9BUZ4	P25942	10428814	MI:0004 - affinity chromatography technologies
+O00463	P25942	10428814	MI:0004 - affinity chromatography technologies
+Q9NRA1	P17948	9813035	MI:0405 - competition binding
+P21109	Q99733	8133060	MI:0004 - affinity chromatography technology, MI:0848 - 125i radiolabel
+P21109	P09341	8133060	MI:0004 - affinity chromatography technology, MI:0848 - 125i radiolabel
+P21109	P02776	8133060	MI:0004 - affinity chromatography technology, MI:0848 - 125i radiolabel
+P05783	P00747	11689350	MI:0405 - competition binding
+P05943	P35213	17908283	MI:0019 - coimmunoprecipitation
+Q9EQW6	Q99MA9	14573534	MI:0019 - coimmunoprecipitation
+P42586	Q62414	14573534	MI:0019 - coimmunoprecipitation
+P36894	P01137	7664647	MI:0405 - competition binding
+P36894	P12645	7664647	MI:0405 - competition binding
+P36894	P22003	7664647	MI:0405 - competition binding
+P36894	P22004	7664647	MI:0405 - competition binding
+O00238	P01137	7664647	MI:0405 - competition binding
+O00238	P12465	7664647	MI:0405 - competition binding
+O00238	P22003	7664647	MI:0405 - competition binding
+O00238	P22004	7664647	MI:0405 - competition binding
+O60716	P35221	7651399	MI:0019 - coimmunoprecipitation
+P12830	P35221	7651399	MI:0019 - coimmunoprecipitation
+O60716	P35222	7651399	MI:0018 - two hybrid, MI:0019 - coimmunoprecipitation
+O60716	P14923	7651399	MI:0018 - two hybrid, MI:0019 - coimmunoprecipitation
+P63329	P62161	9354626	MI:0405 - competition binding
+P02788	Q9NNX6	16239964	MI:0411- enzyme linked immunosorbent assay
+P00709	Q9NNX6	16239964	MI:0411- enzyme linked immunosorbent assay
+P61626	Q9NNX6	16239964	MI:0411- enzyme linked immunosorbent assay
+P05814	Q9NNX6	16239964	MI:0411- enzyme linked immunosorbent assay
+P03973	Q9NNX6	16239964	MI:0411- enzyme linked immunosorbent assay
+P20917	P11276	2446864	MI:0892 - solid phase assay
+P20917	P13595	2446864	MI:0892 - solid phase assay
+Q13330	P25490	12920132	MI:0004 - affinity chromatography technologies
+Q13330	Q00688	12920132	MI:0004 - affinity chromatography technologies
+P04163	P02540	8898864	MI:0030 - cross-linking study
+Q68CL8	P04049	21203569	MI:0004 - affinity chromatography technologies
+Q9JMB0	P05132	10671526	MI:0018 - two hybrid
+Q9JMB0	P0C605	10671526	MI:0018 - two hybrid
+Q9JMB0	Q61410	10671526	MI:0018 - two hybrid
+O88346	P0C605	10671526	MI:0018 - two hybrid
+O75531	O43186	21966431	MI:0077 - nuclear magnetic resonance
+Q15406	Q9Y618	10940306	MI:0728 - gal4 vp16 complementation
+Q15406	P48552	10940306	MI:0728 - gal4 vp16 complementation
+O04291	Q61501	16876910	MI:0018 - two hybrid
+O04291	Q64701	16876910	MI:0018 - two hybrid
+Q9JHR9	P19793	10860982	MI:0059 - gst pull down
+Q9JHR9	P03372	10860982	MI:0059 - gst pull down
+Q12962	P20226	17375202	MI:0019 - coimmunoprecipitation
+Q12962	P21675	17375202	MI:0019 - coimmunoprecipitation
+Q12962	Q6P1X5	17375202	MI:0019 - coimmunoprecipitation
+P12962	O00268	17375202	MI:0019 - coimmunoprecipitation
+Q12962	Q15542	17375202	MI:0019 - coimmunoprecipitation
+Q12962	P49848	17375202	MI:0019 - coimmunoprecipitation
+Q12962	Q15545	17375202	MI:0019 - coimmunoprecipitation
+Q12962	Q16594	17375202	MI:0019 - coimmunoprecipitation
+Q12962	Q15544	17375202	MI:0004 - affinity chromatography technologies
+Q12962	Q16514	17375202	MI:0019 - coimmunoprecipitation
+Q62009	Q08024	9632804	MI:0004 - affinity chromatography technologies
+P13213	P03969	19809893	MI:0004 - affinity chromatography technology, MI:0110 - text mining
+P10909	Q504U8	8555189	MI:0004 - affinity chromatography technology, MI:0110 - text mining
+Q62424	P97471	16087734	MI:0018 - two hybrid
+P70217	P97471	16087734	MI:0018 - two hybrid
+P01286	P20396	2124532	MI:0401 - biochemical
+P29965	P04003	21103345	MI:0107 - surface plasmon resonance, MI:0110 - text mining
+P04003	P25445	21103345	MI:0107 - surface plasmon resonance, MI:0110 - text mining
+P04003	P48023	21103345	MI:0107 - surface plasmon resonance, MI:0110 - text mining
+P62160	P02710	6265467	MI:0071 - molecular sieving
+Q8WXF8	Q13158	11965497	MI:0019 - coimmunoprecipitation
+Q8WXF8	Q14790	11965497	MI:0019 - coimmunoprecipitation
+Q8WXF8	Q92851	11965497	MI:0019 - coimmunoprecipitation
+P14151	A2ASQ1	15917223	MI:0045 - experimental
+P14151	O35988	15917223	MI:0045 - experimental
+Q8N5F7	Q13546	14550261	MI:0019 - coimmunoprecipitation
+P49459	Q9NW38	18277096	MI:0059 - gst pull down
+Q24468	P04202	8289834	MI:0004 - affinity chromatography technologies
+Q24468	P21274	8289834	MI:0004 - affinity chromatography technologies
+P0AFS3	P0A6F5	8639551	MI:0415 - enzymatic study
+Q14696	O94907	19746449	MI:0004 - affinity chromatography technologies
+Q9NZQ7	Q9Y6W8	10581077	MI:0422 - immunostaining
+Q96RJ3	O75888	20441604	MI:0110 - text mining, MI:0113 - western blot
+P35222	P07900	18320359	MI:0019 - coimmunoprecipitation
+P35222	P10809	18320359	MI:0019 - coimmunoprecipitation
+P35222	P34932	18320359	MI:0019 - coimmunoprecipitation
+P35222	P14625	18320359	MI:0019 - coimmunoprecipitation
+P35222	P35638	18320359	MI:0019 - coimmunoprecipitation
+Q96RE7	Q05516	19121354	MI:0728 - mammalian two hybrid
+A4IFA9	Q07731	9608533	MI:0030 - cross-linking study
+P07949	Q07731	9608533	MI:0030 - cross-linking study
+Q9VZ23	P34021	17570491	MI:0019 - coimmunoprecipitation
+Q9VZ23	P20153	17570491	MI:0019 - coimmunoprecipitation
+P20153	Q9TVM2	17570491	MI:0019 - coimmunoprecipitation
+Q9FK13	Q9FIG9	19453460	MI:0405 - competition binding
+Q8VY16	Q42545	19453460	MI:0018 - two hybrid
+Q8VY16	O82533	19453460	MI:0018 - two hybrid
+Q07820-2	P10415	10837489	MI:0018 - two hybrid
+Q07820-2	Q07817	10837489	MI:0018 - two hybrid, MI:0019 - coimmunoprecipitation
+Q07820-2	Q92843	10837489	MI:0018 - two hybrid
+Q07820-2	Q07812	10837489	MI:0018 - two hybrid
+Q07820-2	Q16611	10837489	MI:0018 - two hybrid
+Q07820-2	O88498-3	10837489	MI:0018 - two hybrid
+Q07820-2	O88498-4	10837489	MI:0018 - two hybrid
+Q04047	Q08473	10585281	MI:0019 - coimmunoprecipitation
+Q80WE1	D3ZWB1	19188494	MI:0019 - coimmunoprecipitation
+Q505F1	Q60953	19204783	MI:0019 - coimmunoprecipitation
+Q62824	P23514	10973998	MI:0019 - coimmunoprecipitation
+Q62824	O88618	10973998	MI:0019 - coimmunoprecipitation
+Q62824	P28494	10973998	MI:0019 - coimmunoprecipitation
+Q05519	P08621	8816452	MI:0004 - affinity chromatography technologies
+Q05519	Q8WU68	8816452	MI:0004 - affinity chromatography technologies
+Q44790	P08603-2	20975954	MI:0047 - affinity blotting, MI:0110 - text mining
+G8JZS0	P08603-2	20975954	MI:0110 - text mining, MI:0047 - affinity blotting
+O30916	P55072	19286132	MI:0019 - coimmunoprecipitation
+P0CL52	P55072	19286132	MI:0019 - coimmunoprecipitation
+P0C8E7	P13501	20041127	MI:0107 - surface plasmon resonance
+P0C8E7	P10145	20041127	MI:0107 - surface plasmon resonance
+P16054	Q91YM2	14636894	MI:0019 - coimmunoprecipitation
+Q9LZP8	Q01593	19531597	MI:0018 - two hybrid
+Q9UPT6	P05067	15829626	MI:0113 - western blot
+P19366	Q9LHE5	18811953	MI:0416 - fluorescence microscopy
+Q9SRH5	Q9LHE5	18811953	MI:0416 - fluorescence microscopy
+Q15942	P19544	14736876	MI:0018 - two hybrid
+P63006	P19544	14736876	MI:0018 - two hybrid
+Q13873	P12643	17295905	MI:0030 - cross-linking study, MI:0110 - text mining
+P01583	P00533	2783320	MI:0405 - competition binding
+P01375	P00533	2783320	MI:0405 - competition binding
+Q61730	P01582	17669273	MI:0030 - cross-linking study
+P15509	P08700	2156580	MI:0405 - competition binding
+P04141	P26951	2156580	MI:0405 - competition binding
+O70355	P31041	17237401	MI:0054 - fluorescence-activated cell sorting
+O70355	P09793	17237401	MI:0054 - fluorescence-activated cell sorting
+O70355	Q02242	17237401	MI:0054 - fluorescence-activated cell sorting
+O70355	Q9WVS0	17237401	MI:0054 - fluorescence-activated cell sorting
+O70355	Q7TSA3	17237401	MI:0054 - fluorescence-activated cell sorting
+P09693	P43403	7819147	MI:0019 - coimmunoprecipitation
+P04234	P43403	7819147	MI:0019 - coimmunoprecipitation
+P07766	P43403	7819147	MI:0019 - coimmunoprecipitation
+P06493	P24864	7799941	MI:0071 - molecular sieving
+P54826	P10415	11906213	MI:0019 - coimmunoprecipitation
+P54826	Q07812	11906213	MI:0019 - coimmunoprecipitation
+P54826	Q92934	11906213	MI:0019 - coimmunoprecipitation
+P54826	P55957	11906213	MI:0019 - coimmunoprecipitation
+P25205	P42224	11248027	MI:0059 - gst pull down
+Q04771	P08476	8389764	MI:0030 - cross-linking study
+Q04771	P05111	8389764	MI:0030 - cross-linking study
+Q04771	P07200	8389764	MI:0030 - cross-linking study
+Q6EMB2	P03372	20374646	MI:0018 - two hybrid, MI:0110 - text mining
+Q6EMB2	P10828	20374646	MI:0018 - two hybrid, MI:0110 - text mining
+Q6EMB2	P10276	20374646	MI:0018 - two hybrid, MI:0110 - text mining
+P13808	Q02357	8798415	MI:0019 - coimmunoprecipitation
+O12161	Q01105	18226242	MI:0045 - experimental
+P68400	P19784	9571630	MI:0045 - experimental
+P30154	P63151	16276521	MI:0019 - coimmunoprecipitation
+P30154	Q15172	16276521	MI:0019 - coimmunoprecipitation
+P30154	Q15173	16276521	MI:0019 - coimmunoprecipitation
+Q9UBW7	Q9UKL0	18806873	MI:0059 - gst pull down
+O60341	Q9UKL0	18806873	MI:0059 - gst pull down
+Q13547	Q9UKL0	18806873	MI:0059 - gst pull down
+Q76RI8	Q07812	19955184	MI:0019 - coimmunoprecipitation
+Q76RI8	Q16611	19955184	MI:0019 - coimmunoprecipitation
+P31016	P41350	9875542	MI:0029 - cosedimentation through density gradient
+Q62227	Q60974	9372944	MI:0018 - two hybrid
+P61073	P01303	8276799	MI:0099 - scintillation proximity assay
+P61073	P10145	8276799	MI:0099 - scintillation proximity assay
+P32927	P04141	1828890	MI:0405 - competition binding, MI:0110 - text mining
+P09056	P42702	8006010	MI:0405 - competition binding
+P25311	P61769	9114041	MI:0004 - affinity chromatography technologies
+P01140	P00757	813760	MI:0405 - competition binding
+P01140	P00756	813760	MI:0405 - competition binding
+P49763	P35916	19244214	MI:0004 - affinity chromatography technology, MI:0110 - text mining
+P49765	P35916	19244214	MI:0004 - affinity chromatography technology, MI:0110 - text mining
+Q62108	Q62261	19455133	MI:0676 - tandem affinity purification
+Q62108	P08551	19455133	MI:0676 - tandem affinity purification
+Q62108	P28652	19455133	MI:0676 - tandem affinity purification
+Q62108	Q68FD5	19455133	MI:0676 - tandem affinity purification
+Q62108	P23819	19455133	MI:0676 - tandem affinity purification
+Q62108	Q9Z2W8	19455133	MI:0676 - tandem affinity purification
+Q62108	P63143	19455133	MI:0676 - tandem affinity purification
+Q62108	P62482	19455133	MI:0676 - tandem affinity purification
+Q62108	P63001	19455133	MI:0676 - tandem affinity purification
+Q62108	Q9JIA1	19455133	MI:0676 - tandem affinity purification
+P04141	Q6NSJ8	8241501	MI:0027 - cosedimentation
+A6NIX2	O60663	14736876	MI:0018 - two hybrid
+O00311	P49736	15232106	MI:0096 - pull down
+O00623	O75381	12096124	MI:0018 - two hybrid
+O00623	O96011	12096124	MI:0018 - two hybrid
+O00623	Q9Y5Y5	12096124	MI:0018 - two hybrid
+O00628	P28328	12096124	MI:0018 - two hybrid
+O08599	Q8K1E0	16186111	MI:0007 - anti tag coimmunoprecipitation
+O08599	Q99N50	16186111	MI:0007 - anti tag coimmunoprecipitation
+O14775	Q6Y2X3	17363375	MI:0012 - bioluminescence resonance energy transfer
+O15105	Q13363	14645520	MI:0007 - anti tag coimmunoprecipitation
+O15116	Q9UK45	15231747	MI:0018 - two hybrid
+O15169	P30153	9920888	MI:0018 - two hybrid
+O43172	Q53GS9	16723661	MI:0018 - two hybrid
+P05627	Q61768	15576676	MI:0096 - pull down; MI:0019
+Q00262	Q99N50	16186111	MI:0007 - anti tag coimmunoprecipitation
+Q06330	Q92769	9874765	MI:0018 - two hybrid
+P18847	P25963	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P17036	P41240	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P42285	Q9NQT5	15231747	MI:0018 - two hybrid
+P40616	Q8IWJ2	15522892	MI:0051 - fluorescence technologies
+O43172	O43447	16723661	MI:0018 - two hybrid
+P17679	Q9CQA5	17132730	MI:0096 - pull down
+P48995	Q9UBN4	15834157	MI:0006 - anti bait coimmunoprecipitation
+Q8BPB5	Q9QZJ6	17324935	MI:0892 - solid phase assay
+Q8TEQ6	Q9H840	17640873	MI:0019 - coimmunoprecipitation
+Q06265	Q15024	15231747	MI:0018 - two hybrid
+Q9NP66	Q9Y580	16189514	MI:0004 - affinity chromatography technologies
+Q02535	Q8TBX8	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q13416	Q9UBD5	15232106	MI:0096 - pull down
+Q8TDR0	Q9BUZ4	10791955	MI:0096 - pull down
+O15530	P56277	10983986	MI:0019 - coimmunoprecipitation
+P24385	Q9UBD5	15232106	MI:0096 - pull down
+P41240	Q16828	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P41240	Q8TAU0	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q00262	Q80T23	16186111	MI:0007 - anti tag coimmunoprecipitation
+Q80T23	Q9WTL2	12051743	MI:0096 - pull down
+Q04724	Q9BQ87	15607978	MI:0007 - anti tag coimmunoprecipitation
+Q8TDR0	Q9Y4K3	10791955	MI:0096 - pull down
+P56524	Q969S8	11861901	MI:0019 - coimmunoprecipitation
+P70452	Q549X6	16186111	MI:0007 - anti tag coimmunoprecipitation
+Q8K0S5	Q8K0T0	17189258	MI:0415 - enzymatic studies
+Q9H2S9	Q9UHR5	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q92785	Q93096	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q9NQX6	Q9UHR5	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q93096	Q9UHX1	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P62821	Q80T23	12051743	MI:0096 - pull down
+P70196	Q62523	17092936	MI:0007 - anti tag coimmunoprecipitation; MI:0096
+Q14192	Q92730	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q5RKV6	Q9NPD3	15231747	MI:0018 - two hybrid
+P10415	Q96CV9	9488477	MI:0018 - two hybrid
+P40424	Q9BQG0	17875935	MI:0019 - coimmunoprecipitation
+Q13242	Q16629	16249178	MI:0019 - coimmunoprecipitation
+Q16891	Q9UKY1	15383276	MI:0018 - two hybrid
+Q80T23	Q9JKM7	12051743	MI:0096 - pull down
+Q5SNZ0	Q63210	15749703	MI:0018 - two hybrid
+P18847	P18848	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q64704	Q99N50	16186111	MI:0007 - anti tag coimmunoprecipitation
+O43395	O94906	16723661	MI:0018 - two hybrid
+O75175	Q8TBX8	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P42285	Q96B26	15231747	MI:0018 - two hybrid
+P02554	Q8HY58	18390900	MI:0019 - coimmunoprecipitation
+Q93096	Q9H6S3	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+O95271	P70371	17561506	MI:0007 - anti tag coimmunoprecipitation; MI:0047
+P02545	P04792	11003656	MI:0018 - two hybrid
+P27348	P31749	12177059	MI:0019 - coimmunoprecipitation
+P62879	Q92730	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+O75192	P28328	12096124	MI:0018 - two hybrid
+P20338	P21731	16126723	MI:0006 - anti bait coimmunoprecipitation
+Q92785	Q9H2S9	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P31150	Q92785	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P51150	Q80T23	12051743	MI:0096 - pull down
+Q64729	Q8CIN4	14612425	MI:0006 - anti bait coimmunoprecipitation
+P62312	Q9Y4Z0	15231747	MI:0018 - two hybrid
+P97503	Q9Z2V6	14612411	MI:0006 - anti bait coimmunoprecipitation
+Q14192	Q8TBX8	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q1M168	Q8CFN2	16899818	MI:0019 - coimmunoprecipitation
+Q68DY1	Q92730	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q16526	Q8NEZ5	17463251	MI:0007 - anti tag coimmunoprecipitation
+Q71VB4	Q7TPV4	17875935	MI:0019 - coimmunoprecipitation
+O43543	Q9BXW9	15115758	MI:0018 - two hybrid
+O60907	Q04724	15607978	MI:0007 - anti tag coimmunoprecipitation
+P25963	Q8TAU0	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P27601	Q76MZ3	15525651	MI:0059 - gst pull down
+P35279	Q91V27	11856727	MI:0007 - anti tag coimmunoprecipitation
+Q06265	Q13868	15231747	MI:0031 - protein cross
+P21246	P55854	15383276	MI:0018 - two hybrid
+P61027	Q99N50	11773082	MI:0007 - anti tag coimmunoprecipitation
+P06685	Q01728	14593108	MI:0019 - coimmunoprecipitation
+P24385	P49736	15232106	MI:0096 - pull down
+P35285	Q91V27	11856727	MI:0007 - anti tag coimmunoprecipitation
+Q7L311	Q9H213	15383276	MI:0018 - two hybrid
+Q8WYQ5	Q9HAV4	17765891	MI:0019 - coimmunoprecipitation
+Q9NQX6	Q9UH92	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P62310	Q9Y4Z0	15231747	MI:0018 - two hybrid
+P28574	Q3UPW8	11073985	MI:0018 - two hybrid
+P31150	P41240	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q08499	Q14396	10329691	MI:0018 - two hybrid
+Q16828	Q9UHR5	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+O88895	P97503	14612411	MI:0006 - anti bait coimmunoprecipitation
+P07196	Q8NI70	15383276	MI:0018 - two hybrid
+P18206	Q9HBI1	15159419	MI:0019 - coimmunoprecipitation; MI:0018
+P31150	Q70SY1	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q13868	Q9NPD3	15231747	MI:0018 - two hybrid
+Q70SY1	Q9UHX1	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q96B26	Q9Y2L1	12419256	MI:0018 - two hybrid
+P70196	Q8BFW7	17092936	MI:0007 - anti tag coimmunoprecipitation; MI:0096
+Q70SY1	Q9H6S3	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P08069	P08133	12431980	MI:0019 - coimmunoprecipitation
+P31273	P84022	10722652	MI:0413 - electrophoretic mobility shift assay
+P62879	Q92785	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P45983	Q62132	10419510	MI:0096 - pull down
+Q9NQX6	Q9UHX1	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q9WVB9	Q9Z136	15972957	MI:0019 - coimmunoprecipitation
+O60566	P08700	11030144	MI:0019 - coimmunoprecipitation
+P31150	Q02535	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q06330	Q99708	16287852	MI:0096 - pull down
+Q8TBX8	Q9H6S3	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P18847	Q8TAU0	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P25963	Q70SY1	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q68DY1	Q70SY1	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+O43290	Q15029	16723661	MI:0018 - two hybrid
+O75175	P36915	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P06400	Q9NX02	15701640	MI:0096 - pull down
+P18847	Q9H9D4	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q70SY1	Q9UH92	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q9Y333	Q9Y4Y9	15231747	MI:0018 - two hybrid
+Q14192	Q9UH92	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q01728	Q3T1J5	14593108	MI:0019 - coimmunoprecipitation
+Q13868	Q9NQT5	15231747	MI:0018 - two hybrid
+O14893	Q8TEQ6	17640873	MI:0019 - coimmunoprecipitation
+O15169	Q15797	11438668	MI:0007 - anti tag coimmunoprecipitation
+P07196	P21246	15383276	MI:0018 - two hybrid
+P18847	Q92785	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P27361	Q9H2B2	18046461	MI:0018 - two hybrid
+Q02535	Q8TAU0	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P41240	Q93096	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q16637	Q8TEQ6	17640873	MI:0019 - coimmunoprecipitation
+Q68DY1	Q9UHX1	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q5T3J3	Q7L311	15383276	MI:0018 - two hybrid
+Q13642	Q5TD97	11046156	MI:0018 - two hybrid
+Q7TMS5	Q9DBM0	14504269	MI:0019 - coimmunoprecipitation
+P31150	Q93096	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q548T0	Q549X6	16186111	MI:0007 - anti tag coimmunoprecipitation
+Q03167	Q15942	15084601	MI:0096 - pull down
+O55003	Q99JI6	17928295	MI:0018 - two hybrid
+O60260	P56524	16332688	MI:0019 - coimmunoprecipitation
+O75175	Q92730	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+O75400	Q7L311	15383276	MI:0018 - two hybrid
+P21246	Q9UKY1	15383276	MI:0018 - two hybrid
+P32851	P54282	8692999	MI:0004 - affinity chromatography technologies
+P42285	Q01780	15231747	MI:0018 - two hybrid
+P62492	Q80T23	12051743	MI:0096 - pull down
+Q08999	Q15796	12150994	MI:0007 - anti tag coimmunoprecipitation
+P01100	P21675	15087451	MI:0072 monoclonal antibody western blot -
+P04637	P56597	17916563	MI:0007 - anti tag coimmunoprecipitation
+O75175	Q9NQX6	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q06265	Q9NQT5	15231747	MI:0018 - two hybrid
+Q8WTW3	Q9UP83	15047703	MI:0019 - coimmunoprecipitation
+Q8TAU0	Q9UH92	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+O75400	P07196	15383276	MI:0018 - two hybrid
+Q15645	Q9H0W9	16189514	MI:0004 - affinity chromatography technologies
+Q9H6S3	Q9NQX6	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+O95777	Q9UK45	15231747	MI:0018 - two hybrid
+Q96B26	Q9NQT5	12419256	MI:0018 - two hybrid
+Q01780	Q9NQT4	12419256	MI:0018 - two hybrid
+O35551	Q3UMR0	16525121	MI:0019 - coimmunoprecipitation
+O43541	Q9UPN9	15820681	MI:0007 - anti tag coimmunoprecipitation
+P17679	Q80YQ2	17132730	MI:0096 - pull down
+P67775	Q92572	17163575	MI:0096 - pull down
+Q06265	Q9NPD3	15231747	MI:0018 - two hybrid
+Q9NQT5	Q9Y3B2	15231747	MI:0018 - two hybrid
+P49736	Q14566	15232106	MI:0096 - pull down
+Q9H6S3	Q9UDV6	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P07437	Q04724	15607978	MI:0007 - anti tag coimmunoprecipitation
+O70622	Q7M6Z0	17189258	MI:0415 - enzymatic studies
+P21917	Q53G59	18303015	MI:0019 - coimmunoprecipitation
+Q16254	Q8TAK5	11884602	MI:0096 - pull down; MI:0006
+O08599	Q99N48	16186111	MI:0007 - anti tag coimmunoprecipitation
+P15205	P18508	11102469	MI:0004 - affinity chromatography technologies; MI:0096
+O54880	P60881	16203731	MI:0096 - pull down
+Q5T3J3	Q8NI70	15383276	MI:0018 - two hybrid
+O75381	O96011	12096124	MI:0018 - two hybrid
+O60936	Q01081	10196175	MI:0018 - two hybrid
+O75400	Q5T3J3	15383276	MI:0018 - two hybrid
+P31749	P31946	12177059	MI:0019 - coimmunoprecipitation
+Q02535	Q93096	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P21707	P47709	16203731	MI:0096 - pull down
+O15315	O43542	11842113	MI:0019 - coimmunoprecipitation
+P05712	Q9WUD9	16452474	MI:0019 - coimmunoprecipitation
+P08588	P24588	17170109	MI:0047 - far western blotting
+P18848	P36915	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P49023	Q9HBI1	15159419	MI:0019 - coimmunoprecipitation
+Q70SY1	Q92785	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q8TAU0	Q9H9D4	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P31150	Q9H6S3	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q9NPD3	Q9NQT5	12419256	MI:0018 - two hybrid
+Q06609	Q9Y620	16428451	MI:0019 - coimmunoprecipitation
+Q3UPW8	Q60948	11073985	MI:0018 - two hybrid
+Q02763	Q9Y5C1	11877390	MI:0019 - coimmunoprecipitation
+P42285	Q06265	15231747	MI:0018 - two hybrid
+P55854	Q8NI70	15383276	MI:0018 - two hybrid
+O96011	P28328	12096124	MI:0018 - two hybrid
+P49185	Q4G050	9155017	MI:0018 - two hybrid
+Q8TAU0	Q93096	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P35241	Q14185	16377631	MI:0019 - coimmunoprecipitation
+Q15024	Q9NPD3	15231747	MI:0018 - two hybrid
+P62988	Q15276	16407276	MI:0018 - two hybrid
+Q13309	Q49AN0	17463251	MI:0007 - anti tag coimmunoprecipitation
+Q68DY1	Q9H6S3	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P42285	Q9Y3B2	15231747	MI:0018 - two hybrid
+P25963	Q68DY1	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q9H2S9	Q9UDV6	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+O35717	P05532	14707129	MI:0019 - coimmunoprecipitation
+O00623	Q92968	12096124	MI:0018 - two hybrid
+P21246	P26641	15383276	MI:0018 - two hybrid
+P55854	Q5T3J3	15383276	MI:0018 - two hybrid
+P35288	Q80T23	12051743	MI:0096 - pull down
+P15385	P97879	11931740	MI:0047 - far western blotting
+P21246	Q9H213	15383276	MI:0018 - two hybrid
+Q9H6S3	Q9UHR5	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q14746	Q9Y2V7	15047703	MI:0019 - coimmunoprecipitation
+P70644	Q9R0T4	9531566	MI:0019 - coimmunoprecipitation
+P05112	P78552	8798406	MI:0045 - experimental
+P07196	P55854	15383276	MI:0018 - two hybrid
+O75192	O75381	12096124	MI:0018 - two hybrid
+O15350	Q76N89	18223681	MI:0019 - coimmunoprecipitation
+P06400	Q96ST3	9491888	MI:0007 - anti tag coimmunoprecipitation
+Q16828	Q9H6S3	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+O15315	Q9BXW9	15115758	MI:0018 - two hybrid
+P15337	P60042	15342915	MI:0019 - coimmunoprecipitation
+P18848	P62879	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+O75175	Q68DY1	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P12956	P46063	15096578	MI:0047 - far western blotting, MI:0411
+Q9NQT5	Q9Y2L1	15231747	MI:0018 - two hybrid
+P17036	Q9UHX1	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P36915	Q9UHR5	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q9UDV6	Q9UHX1	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P84022	Q9UPN9	15820681	MI:0007 - anti tag coimmunoprecipitation
+P35293	Q80T23	12051743	MI:0096 - pull down
+Q01780	Q9NQT5	15231747	MI:0018 - two hybrid
+Q8K0T0	Q99PI8	17189258	MI:0415 - enzymatic studies
+P41240	Q9H2S9	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+O15111	Q96Q05	15951441	MI:0006 - anti bait coimmunoprecipitation
+P17036	P36915	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P31150	Q9H2S9	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P50540	Q3UPW8	11073985	MI:0018 - two hybrid
+Q93096	Q9UH92	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q5SNZ0	Q6Q7Y5	15749703	MI:0018 - two hybrid
+P07196	Q9UKY1	15383276	MI:0018 - two hybrid
+O75175	Q9H2S9	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P82471	Q5SNZ0	15749703	MI:0018 - two hybrid
+P35295	Q91V27	11856727	MI:0007 - anti tag coimmunoprecipitation
+O15492	P25100	15917235	MI:0096 - pull down
+Q548T0	Q80T23	16186111	MI:0007 - anti tag coimmunoprecipitation
+P17036	P18848	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P31150	Q9UHX1	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+O60936	Q07955	10196175	MI:0018 - two hybrid
+O75643	Q53GS9	16723661	MI:0018 - two hybrid
+P55854	Q9UKY1	15383276	MI:0018 - two hybrid
+Q548T0	Q99N50	16186111	MI:0007 - anti tag coimmunoprecipitation
+P18848	Q02535	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q7M6Z0	Q9ES97	17189258	MI:0415 - enzymatic studies
+Q91V27	Q9CQD1	11856727	MI:0007 - anti tag coimmunoprecipitation
+Q9H6S3	Q9UHX1	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P05771	P12931	15583006	MI:0006 - anti bait coimmunoprecipitation
+O75190	P14136	10954706	MI:0018 - two hybrid
+P97503	Q60974	14612411	MI:0006 - anti bait coimmunoprecipitation
+Q92785	Q9H6S3	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q16828	Q8TAU0	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q01780	Q9Y3B2	15231747	MI:0018 - two hybrid
+O43290	O43447	16723661	MI:0018 - two hybrid
+Q13868	Q9Y3B2	15231747	MI:0018 - two hybrid
+Q15796	Q9UPN9	15820681	MI:0007 - anti tag coimmunoprecipitation
+Q9H6S3	Q9H9D4	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q16891	Q8NI70	15383276	MI:0018 - two hybrid
+Q68DY1	Q8TAU0	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P08047	Q61502	8657141	MI:0096 - pull down
+P20338	Q6WKZ4	15181150	MI:0055 fluorescent resonance energy transfer -
+Q16828	Q93096	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P21246	Q16891	15383276	MI:0018 - two hybrid
+Q8NI70	Q9UKY1	15383276	MI:0018 - two hybrid
+Q16828	Q8TBX8	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+O75558	Q13642	11046156	MI:0018 - two hybrid
+P05771	P06241	10383400	MI:0019 - coimmunoprecipitation
+P26641	Q9H213	15383276	MI:0018 - two hybrid
+P36915	Q02535	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q99459	Q9UBD5	15232106	MI:0096 - pull down
+P18847	P31150	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P17036	Q68DY1	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+O43172	Q6P2Q9	16723661	MI:0018 - two hybrid
+P07196	Q5T3J3	15383276	MI:0018 - two hybrid
+Q8TBX8	Q9UH92	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+Q99547	Q9NQT4	15231747	MI:0018 - two hybrid
+P45983	Q49A26	16352664	MI:0019 - coimmunoprecipitation
+P51693	Q16891	15383276	MI:0018 - two hybrid
+P36915	Q8TBX8	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P61027	Q99N48	11773082	MI:0007 - anti tag coimmunoprecipitation
+Q9H213	Q9UKY1	15383276	MI:0018 - two hybrid
+Q9NQT4	Q9Y2L1	15231747	MI:0018 - two hybrid
+P18848	Q8TAU0	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+P41240	Q92730	18255255	MI:0019 - coimmunoprecipitation; MI:0096
+O88974	P37238	17952062	MI:0096 - pull down
