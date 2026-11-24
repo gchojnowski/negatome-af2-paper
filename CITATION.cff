@@ -9,6 +9,7 @@ authors:
 type: software
 version: "1.0.0"
 date-released: "2026-11-24"
+doi: 10.5281/zenodo.24509523
 repository-code: "https://github.com/gchojnowski/negatome-af2-paper"
 license: MIT
 keywords:
